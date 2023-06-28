@@ -1,16 +1,25 @@
 # module8_assignment
 
-Module 8 Assignment
 
-## Getting Started
+●     Create a Flutter project on Task Management.
 
-This project is a starting point for a Flutter application.
+●     Implement a main screen that displays a list of tasks.
 
-A few resources to get you started if this is your first Flutter project:
+●     Add a floating action button (FAB) that opens a dialog to add a new task.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+●     When the user clicks the FAB, display a dialog with text fields to input task details such as title, description, and deadline.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+●     Implement a "Save" button in the dialog to add the new task to the task list.
+
+●     Display the added tasks in the main screen's list.
+
+●     Implement a long press gesture on each task item in the list to open a bottom sheet.
+
+●     The bottom sheet should show the task details along with an option to  delete the task.
+
+●     The bottom sheet will always be closed when delete is pressed.
+
+●     Ensure that the parent screen updates automatically with the modified task details.
+
+<img src="screenshot/1.png" alt="alt text" width="270" height="570">    <img src="screenshot/2.png" alt="alt text" width="270" height="570"> 
+<img src="screenshot/3.png" alt="alt text" width="270" height="570">    <img src="screenshot/4.png" alt="alt text" width="270" height="570">
